@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JenmvnApplication {
 
 	public static void main(String[] args) {
+		//add
 		SpringApplication.run(JenmvnApplication.class, args);
 	}
 
